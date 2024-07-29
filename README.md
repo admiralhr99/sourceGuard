@@ -15,5 +15,5 @@ To install SourceGuard, follow these steps:
 1. **Install SourceGuard using Go:**
 
     ```bash
-    go install github.com/admiralhr99/sourceguard@latest
+    go install github.com/admiralhr99/sourceGuard@latest
     ```
